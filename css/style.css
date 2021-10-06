@@ -1,0 +1,36 @@
+
+html{
+	scroll-behavior: smooth;
+}
+
+
+
+
+
+
+.fulllandingimage{
+	background: white url no-repeat scroll center;
+
+
+}
+
+
+.overlay{
+background: rgba(0,0,0,0.5);
+	height: 100vh;
+	background-size: cover;
+}
+
+
+
+
+
+
+.searchbox{
+	height: 100px;
+	width: 400px;
+}
+
+.subscribe{
+	background-color: rgba(0,0,0,0.5);
+}
